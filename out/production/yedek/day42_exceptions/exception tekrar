@@ -1,0 +1,19 @@
+Javanin basa cikamadigi durumlarda ortaya koydugu davranis bicimidir
+Java herseyi talimata uygun yapar ama ongorulemeyen bisey soylenmisse calismayi durdurur(execution stop)
+Exception ile karsilasirsa iki secenek var;
+A-)Method Signature nin yanina Throws yazarak;ne tur bir hata ile karsilasilacagini bildigimizi soylemis oluruz
+(Javaya ne yapacagini hala soylemedigimiz icin exception firlatir ve calismayi durdurur)
+B-)Calismanin durmasini istemezsek try-catch kalibi icine almaliyiz;Java try blogundaki gorevi yapmaya calisir.
+Bu gorevi yaparken catch blogundaki bir veya birden cok exception ile karsilasirsa,
+hangi exception da ne yapacagini bildigi icin calismaya devam eder.
+Bildirilenin disinda bir exception ile karsilasirsa yine calismayi durdurur.
+İki Tur Exception Vardir;
+1-)File input/file output ile ilgili olan IO Exception,
+ compile time(compile time Exceptionya da check exception) sirasinda ortaya cikar
+2-)Java calisinca runtime da ortaya cikan Exception
+
+***Try blogu illaki catch ile calismak zorunda degildir;
+try-catch olur, try-catch finally olur ya da try finally olur ama tek basina calismaz
+
+
+
