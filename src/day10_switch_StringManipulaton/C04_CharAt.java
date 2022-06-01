@@ -1,8 +1,6 @@
 package day10_switch_StringManipulaton;
 
-import java.util.Locale;
-
-public class C04_charAt {
+public class C04_CharAt {
     public static void main(String[] args) {
         //Str de herhangibir karakteri almak istersek o karakterin indeksini kullanarak
         // str.charAt(istenenIndeks) yazabiliriz

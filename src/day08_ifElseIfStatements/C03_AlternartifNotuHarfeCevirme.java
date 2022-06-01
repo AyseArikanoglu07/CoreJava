@@ -2,7 +2,7 @@ package day08_ifElseIfStatements;
 
 import java.util.Scanner;
 
-public class C03_alternartifNotuHarfeCevirme {
+public class C03_AlternartifNotuHarfeCevirme {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         System.out.println("Lutfen notunuzu giriniz:");

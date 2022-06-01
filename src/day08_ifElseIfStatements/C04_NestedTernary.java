@@ -1,6 +1,6 @@
 package day08_ifElseIfStatements;
 
-public class C04_nestedTernary {
+public class C04_NestedTernary {
     public static void main(String[] args) {
         //verilen sayinin negatif mi pozitif mi oldugunu kontrol edip
         //0 veya pozitif sayi tek veya ciftoldugunu belirleyen bir ternary yaziniz

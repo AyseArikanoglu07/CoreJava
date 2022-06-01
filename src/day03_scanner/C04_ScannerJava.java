@@ -2,7 +2,7 @@ package day03_scanner;
 
 import java.util.Scanner;
 
-public class C04_scannerJava {
+public class C04_ScannerJava {
     public static void main(String[] args) {
 
         // Scanner kullanmak icin 3 adim takip ediyoruz

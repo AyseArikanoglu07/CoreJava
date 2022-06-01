@@ -1,6 +1,6 @@
 package day09_ternary_Switch;
 
-public class c05_tERNARY {
+public class C05_Ternary {
     public static void main(String[] args) {
 
         //bazen ternary deki iki sonucun data turleri farkli olabilir

@@ -1,6 +1,6 @@
 package day06_concatenationOperators;
 
-public class C01_agiris {
+public class C01_Agiris {
     public static void main(String[] args) {
 
         String a="hello";

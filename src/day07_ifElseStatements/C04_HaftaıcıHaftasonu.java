@@ -3,7 +3,7 @@ package day07_ifElseStatements;
 import java.util.Locale;
 import java.util.Scanner;
 
-public class C04_haftaıcıHaftasonu {
+public class C04_HaftaıcıHaftasonu {
     public static void main(String[] args) {
         Scanner scan=new Scanner(System.in);
         System.out.println("lutfen gun ismini yaziniz");

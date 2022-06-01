@@ -2,7 +2,7 @@ package day03_scanner;
 
 import java.util.Scanner;
 
-public class Variables_Scannner_Practice {
+public class Variables_Scanner_Practice {
     public static void main(String[] args) {
 
         //1.ders

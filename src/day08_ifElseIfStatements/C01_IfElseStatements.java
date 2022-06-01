@@ -2,7 +2,7 @@ package day08_ifElseIfStatements;
 
 import java.util.Scanner;
 
-public class C01_ifElseStatements {
+public class C01_IfElseStatements {
     public static void main(String[] args) {
         //girilen birn karakterin, harfb olup olmadigini bulalim
         Scanner scan = new Scanner(System.in);

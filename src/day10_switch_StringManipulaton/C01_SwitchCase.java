@@ -2,7 +2,7 @@ package day10_switch_StringManipulaton;
 
 import java.util.Scanner;
 
-public class C01_switchCase {
+public class C01_SwitchCase {
     public static void main(String[] args) {
 
         //kullanicidan sayi olarak kacinci ay oldugunu alip

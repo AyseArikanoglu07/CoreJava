@@ -1,6 +1,6 @@
 package day09_ternary_Switch;
 
-public class C00_practice {
+public class C00_Practice {
     public static void main(String[] args) {
 
 

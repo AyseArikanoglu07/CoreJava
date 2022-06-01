@@ -3,7 +3,7 @@ package day07_ifElseStatements;
 import java.util.Locale;
 import java.util.Scanner;
 
-public class C05_ifelseHaftaninGunleri {
+public class C05_IfeElseHaftaninGunleri {
     public static void main(String[] args) {
 
         Scanner scan=new Scanner(System.in);

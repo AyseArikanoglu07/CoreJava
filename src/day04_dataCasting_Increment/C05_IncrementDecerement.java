@@ -1,6 +1,6 @@
 package day04_dataCasting_Increment;
 
-public class C05_IncreementDecerement {
+public class C05_IncrementDecerement {
     public static void main(String[] args) {
 
         int sayi=20;
